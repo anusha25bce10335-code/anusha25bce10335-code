@@ -1,7 +1,15 @@
-## Hi there 👋
 
-<!--
-**anusha25bce10335-code/anusha25bce10335-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Hi I'm Anusha Tandon 👋
+
+**Branch:** B.Tech – [Your Branch]  
+**Year:** First Year  
+**University:** VIT Bhopal University  
+
+## About Me
+I hope to learn how to build real world projects 
+and develop my coding and professional skills 
+over the next four years.-
 
 Here are some ideas to get you started:
 
