@@ -2,7 +2,7 @@
 
 # Hi I'm Anusha Tandon 👋
 
-**Branch:** B.Tech – [Your Branch]  
+**Branch:** B.Tech – [  Computer Science ]  
 **Year:** First Year  
 **University:** VIT Bhopal University  
 
